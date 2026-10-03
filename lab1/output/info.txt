@@ -1,0 +1,7 @@
+=== Matrix Multiplication Info ===
+Matrix A size: 2000x2000
+Matrix B size: 2000x2000
+Matrix C size: 2000x2000
+Execution time: 7.98634 sec
+Task volume (Data): 12000000 elements
+Task volume (Ops): 16000000000 FLOP
