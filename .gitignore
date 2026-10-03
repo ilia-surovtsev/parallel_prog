@@ -1,0 +1,4 @@
+__pycache__/
+lab1/main_app.exe
+lab2_openmp/main_app.exe
+*.obj

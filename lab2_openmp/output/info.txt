@@ -1,0 +1,2 @@
+Execution time: 1.51614 sec
+Task volume (Data): 12000000 elements
