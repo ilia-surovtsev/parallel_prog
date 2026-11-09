@@ -1,0 +1,127 @@
+Generating N=200...
+Running N=200, Procs=1...
+Matrix size: 200x200 | Processes: 1
+Computation completed.
+Calc time: 0.00731322 sec (Total time: 0.0669084 sec)
+  -> Time: 0.00731322 s
+Running N=200, Procs=2...
+Matrix size: 200x200 | Processes: 2
+Computation completed.
+Calc time: 0.00367424 sec (Total time: 0.0615225 sec)
+  -> Time: 0.00367424 s
+Running N=200, Procs=4...
+Matrix size: 200x200 | Processes: 4
+Computation completed.
+Calc time: 0.00187766 sec (Total time: 0.0577617 sec)
+  -> Time: 0.00187766 s
+Running N=200, Procs=8...
+Matrix size: 200x200 | Processes: 8
+Computation completed.
+Calc time: 0.000920572 sec (Total time: 0.0577223 sec)
+  -> Time: 0.000920572 s
+Generating N=400...
+Running N=400, Procs=1...
+Matrix size: 400x400 | Processes: 1
+Computation completed.
+Calc time: 0.0576098 sec (Total time: 0.271933 sec)
+  -> Time: 0.0576098 s
+Running N=400, Procs=2...
+Matrix size: 400x400 | Processes: 2
+Computation completed.
+Calc time: 0.0288033 sec (Total time: 0.23994 sec)
+  -> Time: 0.0288033 s
+Running N=400, Procs=4...
+Matrix size: 400x400 | Processes: 4
+Computation completed.
+Calc time: 0.0144867 sec (Total time: 0.222905 sec)
+  -> Time: 0.0144867 s
+Running N=400, Procs=8...
+Matrix size: 400x400 | Processes: 8
+Computation completed.
+Calc time: 0.00723216 sec (Total time: 0.216226 sec)
+  -> Time: 0.00723216 s
+Generating N=800...
+Running N=800, Procs=1...
+Matrix size: 800x800 | Processes: 1
+Computation completed.
+Calc time: 0.457887 sec (Total time: 1.27817 sec)
+  -> Time: 0.457887 s
+Running N=800, Procs=2...
+Matrix size: 800x800 | Processes: 2
+Computation completed.
+Calc time: 0.227068 sec (Total time: 1.04137 sec)
+  -> Time: 0.227068 s
+Running N=800, Procs=4...
+Matrix size: 800x800 | Processes: 4
+Computation completed.
+Calc time: 0.119827 sec (Total time: 0.932639 sec)
+  -> Time: 0.119827 s
+Running N=800, Procs=8...
+Matrix size: 800x800 | Processes: 8
+Computation completed.
+Calc time: 0.112282 sec (Total time: 0.930837 sec)
+  -> Time: 0.112282 s
+Generating N=1200...
+Running N=1200, Procs=1...
+Matrix size: 1200x1200 | Processes: 1
+Computation completed.
+Calc time: 1.59457 sec (Total time: 3.42103 sec)
+  -> Time: 1.59457 s
+Running N=1200, Procs=2...
+Matrix size: 1200x1200 | Processes: 2
+Computation completed.
+Calc time: 0.804818 sec (Total time: 2.64247 sec)
+  -> Time: 0.804818 s
+Running N=1200, Procs=4...
+Matrix size: 1200x1200 | Processes: 4
+Computation completed.
+Calc time: 0.531591 sec (Total time: 2.36422 sec)
+  -> Time: 0.531591 s
+Running N=1200, Procs=8...
+Matrix size: 1200x1200 | Processes: 8
+Computation completed.
+Calc time: 0.397644 sec (Total time: 2.23757 sec)
+  -> Time: 0.397644 s
+Generating N=1600...
+Running N=1600, Procs=1...
+Matrix size: 1600x1600 | Processes: 1
+Computation completed.
+Calc time: 4.16383 sec (Total time: 7.40784 sec)
+  -> Time: 4.16383 s
+Running N=1600, Procs=2...
+Matrix size: 1600x1600 | Processes: 2
+Computation completed.
+Calc time: 2.1852 sec (Total time: 5.42047 sec)
+  -> Time: 2.1852 s
+Running N=1600, Procs=4...
+Matrix size: 1600x1600 | Processes: 4
+Computation completed.
+Calc time: 1.23882 sec (Total time: 4.42074 sec)
+  -> Time: 1.23882 s
+Running N=1600, Procs=8...
+Matrix size: 1600x1600 | Processes: 8
+Computation completed.
+Calc time: 0.937939 sec (Total time: 4.10416 sec)
+  -> Time: 0.937939 s
+Generating N=2000...
+Running N=2000, Procs=1...
+Matrix size: 2000x2000 | Processes: 1
+Computation completed.
+Calc time: 8.02285 sec (Total time: 13.0792 sec)
+  -> Time: 8.02285 s
+Running N=2000, Procs=2...
+Matrix size: 2000x2000 | Processes: 2
+Computation completed.
+Calc time: 4.11471 sec (Total time: 9.16413 sec)
+  -> Time: 4.11471 s
+Running N=2000, Procs=4...
+Matrix size: 2000x2000 | Processes: 4
+Computation completed.
+Calc time: 2.48686 sec (Total time: 7.22483 sec)
+  -> Time: 2.48686 s
+Running N=2000, Procs=8...
+Matrix size: 2000x2000 | Processes: 8
+Computation completed.
+Calc time: 1.84276 sec (Total time: 6.66466 sec)
+  -> Time: 1.84276 s
+Done!
